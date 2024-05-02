@@ -16,12 +16,13 @@ with open("source.txt", "r") as f:
     # Get the list of repository URLs
         repos = []
         for repo in soup.select('h3 a'):
-            repos.append(repo)
+            name = (repo.text).replace(' / ', '/').replace('\n      ','').strip('\n').replace(' / ', '/')
+            repos.append(name)
 
         # Create the "awesome" list in markdown format
         for index, repo in enumerate(repos, start=1):
-            awesome_list += f"- {repo}\n"
-            # awesome_list += f"- [{repo}](https://github.com/{repo})\n"
+            # awesome_list += f"- {repo}\n"
+            awesome_list += f"- [{repo}](https://github.com/{repo})\n"
 
 # Save the output to a markdown file
 with open('README.md', 'w') as f:
