@@ -1,38 +1,6 @@
 # Awesome Technostructure(s)
 
-## https://github.com/stars/ketsapiwiq/lists/robot-machine-learning
-
-- [LambdaLabsML/examples](https://github.com/LambdaLabsML/examples)
-- [salesforce/BLIP](https://github.com/salesforce/BLIP)
-- [impira/docquery](https://github.com/impira/docquery)
-- [marqo-ai/marqo](https://github.com/marqo-ai/marqo)
-- [openai/whisper](https://github.com/openai/whisper)
-- [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action)
-- [alpa-projects/alpa](https://github.com/alpa-projects/alpa)
-- [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)
-- [mingyuan-zhang/MotionDiffuse](https://github.com/mingyuan-zhang/MotionDiffuse)
-- [raingo/TGIF-Release](https://github.com/raingo/TGIF-Release)
-- [cvlab-columbia/viper](https://github.com/cvlab-columbia/viper)
-- [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
-- [cvlab-columbia/zero123](https://github.com/cvlab-columbia/zero123)
-- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals)
-- [broncotc/bitsandbytes-rocm](https://github.com/broncotc/bitsandbytes-rocm)
-- [jiggy-ai/pair](https://github.com/jiggy-ai/pair)
-- [jiggy-ai/chatstack](https://github.com/jiggy-ai/chatstack)
-- [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4)
-- [synesthesiam/voice2json](https://github.com/synesthesiam/voice2json)
-- [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT)
-- [Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero)
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-- [noahshinn/reflexion](https://github.com/noahshinn/reflexion)
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-- [janeyeon/ditto-nerf-code](https://github.com/janeyeon/ditto-nerf-code)
-- [TabbyML/tabby](https://github.com/TabbyML/tabby)
-- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot)
-- [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM)
-- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM)
-## https://github.com/stars/ketsapiwiq/lists/research
+## [Research](https://github.com/stars/ketsapiwiq/lists/research)
 
 - [pfrazee/vitra](https://github.com/pfrazee/vitra)
 - [glondu/belenios](https://github.com/glondu/belenios)
@@ -64,7 +32,8 @@
 - [YousefED/Matrix-CRDT](https://github.com/YousefED/Matrix-CRDT)
 - [yjs/yjs](https://github.com/yjs/yjs)
 - [carlosmn/geef](https://github.com/carlosmn/geef)
-## https://github.com/stars/ketsapiwiq/lists/inspiration
+
+## [Inspiration](https://github.com/stars/ketsapiwiq/lists/inspiration)
 
 - [babolivier/matrix-poll-bot](https://github.com/babolivier/matrix-poll-bot)
 - [k0a1a/hotglue2](https://github.com/k0a1a/hotglue2)
@@ -96,7 +65,8 @@
 - [amarty66/lambdaway](https://github.com/amarty66/lambdaway)
 - [stadtulm/gbfsmap](https://github.com/stadtulm/gbfsmap)
 - [transportkollektiv/cykel](https://github.com/transportkollektiv/cykel)
-## https://github.com/stars/ketsapiwiq/lists/pedagogy
+
+## [Pedagogy](https://github.com/stars/ketsapiwiq/lists/pedagogy)
 
 - [dwyl/phoenix-ecto-append-only-log-example](https://github.com/dwyl/phoenix-ecto-append-only-log-example)
 - [EasyRPG/Editor](https://github.com/EasyRPG/Editor)
@@ -124,39 +94,8 @@
 - [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki)
 - [CodingTrain/Creative-Coding-Processing-Full-Course](https://github.com/CodingTrain/Creative-Coding-Processing-Full-Course)
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)
-## https://github.com/stars/ketsapiwiq/lists/unlock-security
 
-- [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening)
-- [clong/DetectionLab](https://github.com/clong/DetectionLab)
-- [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
-- [ANSSI-FR/SecuML](https://github.com/ANSSI-FR/SecuML)
-- [ANSSI-FR/AD-control-paths](https://github.com/ANSSI-FR/AD-control-paths)
-- [shirkdog/pulledpork](https://github.com/shirkdog/pulledpork)
-- [OISF/suricata-update](https://github.com/OISF/suricata-update)
-- [sudohyak/suricata-rules](https://github.com/sudohyak/suricata-rules)
-- [konstruktoid/ansible-role-hardening](https://github.com/konstruktoid/ansible-role-hardening)
-- [Yara-Rules/rules](https://github.com/Yara-Rules/rules)
-- [InQuest/awesome-yara](https://github.com/InQuest/awesome-yara)
-- [fleetdm/fleet](https://github.com/fleetdm/fleet)
-- [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)
-- [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list)
-- [FuzzyMonkeyCo/monkey](https://github.com/FuzzyMonkeyCo/monkey)
-- [mirage/mirage](https://github.com/mirage/mirage)
-- [cloudozer/ling](https://github.com/cloudozer/ling)
-- [unikraft/unikraft](https://github.com/unikraft/unikraft)
-- [OtoloNetworks/rebar3_osv](https://github.com/OtoloNetworks/rebar3_osv)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- [protocol/ResNetLab](https://github.com/protocol/ResNetLab)
-- [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server)
-- [StamusNetworks/scirius](https://github.com/StamusNetworks/scirius)
-- [StamusNetworks/SELKS](https://github.com/StamusNetworks/SELKS)
-- [gfek/Eleven](https://github.com/gfek/Eleven)
-- [CptOfEvilMinions/FleetDM-Automation](https://github.com/CptOfEvilMinions/FleetDM-Automation)
-- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
-- [heroku/12factor](https://github.com/heroku/12factor)
-- [arpa2/draft-vanrein-httpauth-sasl](https://github.com/arpa2/draft-vanrein-httpauth-sasl)
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-## https://github.com/stars/ketsapiwiq/lists/decentralize
+## [Decentralize](https://github.com/stars/ketsapiwiq/lists/decentralize)
 
 - [YunoHost-Apps/uptime-kuma_ynh](https://github.com/YunoHost-Apps/uptime-kuma_ynh)
 - [LibreSign/libresign](https://github.com/LibreSign/libresign)
@@ -188,7 +127,41 @@
 - [bonfire-networks/bonfire_valueflows](https://github.com/bonfire-networks/bonfire_valueflows)
 - [YunoHost-Apps/signaturepdf_ynh](https://github.com/YunoHost-Apps/signaturepdf_ynh)
 - [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala)
-## https://github.com/stars/ketsapiwiq/lists/yunohost
+
+## [Security](https://github.com/stars/ketsapiwiq/lists/unlock-security)
+
+- [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening)
+- [clong/DetectionLab](https://github.com/clong/DetectionLab)
+- [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
+- [ANSSI-FR/SecuML](https://github.com/ANSSI-FR/SecuML)
+- [ANSSI-FR/AD-control-paths](https://github.com/ANSSI-FR/AD-control-paths)
+- [shirkdog/pulledpork](https://github.com/shirkdog/pulledpork)
+- [OISF/suricata-update](https://github.com/OISF/suricata-update)
+- [sudohyak/suricata-rules](https://github.com/sudohyak/suricata-rules)
+- [konstruktoid/ansible-role-hardening](https://github.com/konstruktoid/ansible-role-hardening)
+- [Yara-Rules/rules](https://github.com/Yara-Rules/rules)
+- [InQuest/awesome-yara](https://github.com/InQuest/awesome-yara)
+- [fleetdm/fleet](https://github.com/fleetdm/fleet)
+- [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)
+- [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list)
+- [FuzzyMonkeyCo/monkey](https://github.com/FuzzyMonkeyCo/monkey)
+- [mirage/mirage](https://github.com/mirage/mirage)
+- [cloudozer/ling](https://github.com/cloudozer/ling)
+- [unikraft/unikraft](https://github.com/unikraft/unikraft)
+- [OtoloNetworks/rebar3_osv](https://github.com/OtoloNetworks/rebar3_osv)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [protocol/ResNetLab](https://github.com/protocol/ResNetLab)
+- [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server)
+- [StamusNetworks/scirius](https://github.com/StamusNetworks/scirius)
+- [StamusNetworks/SELKS](https://github.com/StamusNetworks/SELKS)
+- [gfek/Eleven](https://github.com/gfek/Eleven)
+- [CptOfEvilMinions/FleetDM-Automation](https://github.com/CptOfEvilMinions/FleetDM-Automation)
+- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
+- [heroku/12factor](https://github.com/heroku/12factor)
+- [arpa2/draft-vanrein-httpauth-sasl](https://github.com/arpa2/draft-vanrein-httpauth-sasl)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+
+## [YunoHost](https://github.com/stars/ketsapiwiq/lists/yunohost)
 
 - [YunoHost-Apps/Experimental_helpers](https://github.com/YunoHost-Apps/Experimental_helpers)
 - [YunoHost/example_ynh](https://github.com/YunoHost/example_ynh)
@@ -220,7 +193,8 @@
 - [KaiStarkk/wumps](https://github.com/KaiStarkk/wumps)
 - [ldidry/lutim](https://github.com/ldidry/lutim)
 - [mjl-/mox](https://github.com/mjl-/mox)
-## https://github.com/stars/ketsapiwiq/lists/magic-wand-ui-front-end
+
+## [UI / front-end](https://github.com/stars/ketsapiwiq/lists/magic-wand-ui-front-end)
 
 - [xyflow/xyflow](https://github.com/xyflow/xyflow)
 - [zerostaticthemes/hugo-winston-theme](https://github.com/zerostaticthemes/hugo-winston-theme)
@@ -252,7 +226,8 @@
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo)
 - [codeledge/entitree](https://github.com/codeledge/entitree)
 - [AngryLoki/wikidata-graph-builder](https://github.com/AngryLoki/wikidata-graph-builder)
-## https://github.com/stars/ketsapiwiq/lists/semantics
+
+## [Semantics](https://github.com/stars/ketsapiwiq/lists/semantics)
 
 - [medialab/hyphe](https://github.com/medialab/hyphe)
 - [assemblee-virtuelle/pair](https://github.com/assemblee-virtuelle/pair)
@@ -274,7 +249,8 @@
 - [Reflets-info/maltego-tools](https://github.com/Reflets-info/maltego-tools)
 - [MTRNord/matrix-art](https://github.com/MTRNord/matrix-art)
 - [harperreed/photo-similarity-search](https://github.com/harperreed/photo-similarity-search)
-## https://github.com/stars/ketsapiwiq/lists/sysadmin-devops
+
+## [SysAdmin/DevOps](https://github.com/stars/ketsapiwiq/lists/sysadmin-devops)
 
 - [denvaar/pgdiff](https://github.com/denvaar/pgdiff)
 - [swarmstack/swarmstack](https://github.com/swarmstack/swarmstack)
@@ -306,7 +282,8 @@
 - [Alinto/sogo](https://github.com/Alinto/sogo)
 - [h44z/wg-portal](https://github.com/h44z/wg-portal)
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui)
-## https://github.com/stars/ketsapiwiq/lists/dev
+
+## <https://github.com/stars/ketsapiwiq/lists/dev>
 
 - [rescript-association/genType](https://github.com/rescript-association/genType)
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi)
@@ -338,7 +315,8 @@
 - [mixxorz/DSLR](https://github.com/mixxorz/DSLR)
 - [exercism/elixir](https://github.com/exercism/elixir)
 - [exercism/python](https://github.com/exercism/python)
-## https://github.com/stars/ketsapiwiq/lists/post-capitalism
+
+## <https://github.com/stars/ketsapiwiq/lists/post-capitalism>
 
 - [stadtulm/gbfsmap](https://github.com/stadtulm/gbfsmap)
 - [transportkollektiv/cykel](https://github.com/transportkollektiv/cykel)
@@ -356,3 +334,36 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe)
 - [Reflets-info/maltego-tools](https://github.com/Reflets-info/maltego-tools)
+
+## :robot: Machine Learning <https://github.com/stars/ketsapiwiq/lists/robot-machine-learning>
+
+- [LambdaLabsML/examples](https://github.com/LambdaLabsML/examples)
+- [salesforce/BLIP](https://github.com/salesforce/BLIP)
+- [impira/docquery](https://github.com/impira/docquery)
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo)
+- [openai/whisper](https://github.com/openai/whisper)
+- [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action)
+- [alpa-projects/alpa](https://github.com/alpa-projects/alpa)
+- [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)
+- [mingyuan-zhang/MotionDiffuse](https://github.com/mingyuan-zhang/MotionDiffuse)
+- [raingo/TGIF-Release](https://github.com/raingo/TGIF-Release)
+- [cvlab-columbia/viper](https://github.com/cvlab-columbia/viper)
+- [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+- [cvlab-columbia/zero123](https://github.com/cvlab-columbia/zero123)
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals)
+- [broncotc/bitsandbytes-rocm](https://github.com/broncotc/bitsandbytes-rocm)
+- [jiggy-ai/pair](https://github.com/jiggy-ai/pair)
+- [jiggy-ai/chatstack](https://github.com/jiggy-ai/chatstack)
+- [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4)
+- [synesthesiam/voice2json](https://github.com/synesthesiam/voice2json)
+- [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT)
+- [Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero)
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+- [noahshinn/reflexion](https://github.com/noahshinn/reflexion)
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+- [janeyeon/ditto-nerf-code](https://github.com/janeyeon/ditto-nerf-code)
+- [TabbyML/tabby](https://github.com/TabbyML/tabby)
+- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot)
+- [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM)
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM)

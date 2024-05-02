@@ -7,6 +7,7 @@ awesome_list = "# Awesome Technostructure(s)\n\n"
 with open("source.txt", "r") as f:
     urls = [line.strip() for line in f]
     for url in urls:
+        
         response = requests.get(url)
     # url = "https://github.com/stars"
     # response = requests.get(url)
