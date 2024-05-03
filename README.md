@@ -1,41 +1,9 @@
 # Awesome Technostructure(s)
 
-## https://github.com/stars/ketsapiwiq/lists/robot-machine-learning
-
-- [LambdaLabsML/examples](https://github.com/LambdaLabsML/examples): ambdaLabsML/examples: Deep Learning Examples
-- [salesforce/BLIP](https://github.com/salesforce/BLIP): salesforce/BLIP: PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generatio
-- [impira/docquery](https://github.com/impira/docquery): mpira/docquery: An easy way to extract information from documents
-- [marqo-ai/marqo](https://github.com/marqo-ai/marqo): marqo-ai/marqo: Unified embedding generation and search engine. Also available on cloud - cloud.marqo.a
-- [openai/whisper](https://github.com/openai/whisper): openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervisio
-- [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action): xxt/chatgpt-action: Let ChatGPT review PRs for you
-- [alpa-projects/alpa](https://github.com/alpa-projects/alpa): alpa-projects/alpa: Training and serving large-scale neural networks with auto parallelization.
-- [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode): mpociot/chatgpt-vscode: A VSCode extension that allows you to use ChatGPT
-- [mingyuan-zhang/MotionDiffuse](https://github.com/mingyuan-zhang/MotionDiffuse): mingyuan-zhang/MotionDiffuse: MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Mode
-- [raingo/TGIF-Release](https://github.com/raingo/TGIF-Release): raingo/TGIF-Release: Animated GIF Description Dataset
-- [cvlab-columbia/viper](https://github.com/cvlab-columbia/viper): cvlab-columbia/viper: Code for the paper "ViperGPT: Visual Inference via Python Execution for Reasoning"
-- [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt): chtdax/awesome-totally-open-chatgpt: A list of totally open alternatives to ChatGPT
-- [cvlab-columbia/zero123](https://github.com/cvlab-columbia/zero123): cvlab-columbia/zero123: Zero-1-to-3: Zero-shot One Image to 3D Object (ICCV 2023)
-- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals): bigscience-workshop/petals: 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-- [broncotc/bitsandbytes-rocm](https://github.com/broncotc/bitsandbytes-rocm): broncotc/bitsandbytes-rocm
-- [jiggy-ai/pair](https://github.com/jiggy-ai/pair): jiggy-ai/pair: REPL environment for GPT pair programming
-- [jiggy-ai/chatstack](https://github.com/jiggy-ai/chatstack): jiggy-ai/chatstack: Minimalist Context Management for message-based GPTs
-- [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4): radi-cho/awesome-gpt4: A curated list of prompts, tools, and resources regarding the GPT-4 language model.
-- [synesthesiam/voice2json](https://github.com/synesthesiam/voice2json): synesthesiam/voice2json: Command-line tools for speech and intent recognition on Linux
-- [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT): gd3kr/BlenderGPT: Use commands in English to control Blender with OpenAI's GPT-4
-- [Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero): Picsart-AI-Research/Text2Video-Zero: [ICCV 2023 Oral] Text-to-Image Diffusion Models are Zero-Shot Video Generators
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp): ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): Significant-Gravitas/AutoGPT: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [noahshinn/reflexion](https://github.com/noahshinn/reflexion): oahshinn/reflexion: [NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): oobabooga/text-generation-webui: A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
-- [janeyeon/ditto-nerf-code](https://github.com/janeyeon/ditto-nerf-code): janeyeon/ditto-nerf-code
-- [TabbyML/tabby](https://github.com/TabbyML/tabby): TabbyML/tabby: Self-hosted AI coding assistant
-- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot): fauxpilot/fauxpilot: FauxPilot - an open-source alternative to GitHub Copilot server
-- [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM): Stability-AI/StableLM: StableLM: Stability AI Language Models
-- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM): s an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.
-## https://github.com/stars/ketsapiwiq/lists/research
+## [research]([research)](<https://github.com/stars/ketsapiwiq/lists/research>))
 
 - [pfrazee/vitra](https://github.com/pfrazee/vitra): pfrazee/vitra: Cooperative databases using smart contracts.
-- [glondu/belenios](https://github.com/glondu/belenios): du/belenios: Verifiable online voting system. This is a mirror of https://gitlab.inria.fr/belenios/beleni
+- [glondu/belenios](https://github.com/glondu/belenios): du/belenios: Verifiable online voting system. This is a mirror of <https://gitlab.inria.fr/belenios/beleni>
 - [King-Mob/Deliberate](https://github.com/King-Mob/Deliberate): King-Mob/Deliberat
 - [Wobbly-App/wobbly-server](https://github.com/Wobbly-App/wobbly-server): Wobbly-App/wobbly-server: Elixir backend for Wobbly
 - [stefan-it/turkish-bert](https://github.com/stefan-it/turkish-bert): tefan-it/turkish-bert: Turkish BERT/DistilBERT, ELECTRA and ConvBERT mod
@@ -64,7 +32,8 @@
 - [YousefED/Matrix-CRDT](https://github.com/YousefED/Matrix-CRDT): YousefED/Matrix-CRDT: Use Matrix as a backend for local-first applications with the Matrix-CRDT Yjs provider.
 - [yjs/yjs](https://github.com/yjs/yjs): yjs/yjs: Shared data types for building collaborative softw
 - [carlosmn/geef](https://github.com/carlosmn/geef): Git NEEEEF (Erlang NIF)
-## https://github.com/stars/ketsapiwiq/lists/inspiration
+
+## [inspiration](https://github.com/stars/ketsapiwiq/lists/inspiration)
 
 - [babolivier/matrix-poll-bot](https://github.com/babolivier/matrix-poll-bot): babolivier/matrix-poll-bot: Matrix bot to d
 - [k0a1a/hotglue2](https://github.com/k0a1a/hotglue2): 0a1a/hotglue2: HOTGLUE is a Content Manipulation System which allows to construct websites directly in a web-browser.
@@ -80,7 +49,7 @@
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server): _search_server: Distributed Peer-to-Peer Web Search Engine and Intranet Search A
 - [Rhizome-Conifer/conifer](https://github.com/Rhizome-Conifer/conifer): Rhizome-Conifer/conifer: Collect and revisit web pages.
 - [oduwsdl/archivenow](https://github.com/oduwsdl/archivenow): duwsdl/archivenow: A Tool To Push Web Resources Into Web Arch
-- [LibreCybernetics/awesome-copyfarleft](https://github.com/LibreCybernetics/awesome-copyfarleft): LibreCybernetics/awesome-copyfarleft: [Mirror] Upstream: https://nest.pijul.com/fabian/awesome-copyfarlef
+- [LibreCybernetics/awesome-copyfarleft](https://github.com/LibreCybernetics/awesome-copyfarleft): LibreCybernetics/awesome-copyfarleft
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): jely2002/youtube-dl-gui: A cross-platform GUI for youtube-dl made in Electron and node.j
 - [phase1geo/Minder](https://github.com/phase1geo/Minder): hase1geo/Minder: Mind-mapping application for Elementary OS
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux): gpakosz/.tmux: 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
@@ -91,12 +60,13 @@
 - [arpa2/draft-vanrein-httpauth-sasl](https://github.com/arpa2/draft-vanrein-httpauth-sasl): 2/draft-vanrein-httpauth-sasl: HTTP Authentication with SASL (HTTP SASL)
 - [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper): bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
 - [syntax-tree/mdast](https://github.com/syntax-tree/mdast): x-tree/mdast: Markdown Abstract Syntax Tree form
-- [logseq/logseq](https://github.com/logseq/logseq): gseq/logseq: A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadm
+- [logseq/logseq](https://github.com/logseq/logseq): gseq/logseq: A privacy-first, open-source platform for knowledge management and collaboration. Download link:  <http://github.com/logseq/logseq/releases>. roadmap: <http://trello.com/b/8txSM12G/roadm>
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference): willwulfken/MidJourney-Styles-and-Keywords-Reference: A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [amarty66/lambdaway](https://github.com/amarty66/lambdaway): marty66/lambdaway: The {lambda way} project is a wiki, {lambda tank}, built as a thin overlay on top of any modern web browser, and devoted to writing, composing and coding on the web, where the markup, styling and scripting are unified in a single language, {lambda talk}.
 - [stadtulm/gbfsmap](https://github.com/stadtulm/gbfsmap): dtulm/gbfsm
 - [transportkollektiv/cykel](https://github.com/transportkollektiv/cykel): Django Bikesharing Backend
-## https://github.com/stars/ketsapiwiq/lists/pedagogy
+
+## [pedagogy](https://github.com/stars/ketsapiwiq/lists/pedagogy)
 
 - [dwyl/phoenix-ecto-append-only-log-example](https://github.com/dwyl/phoenix-ecto-append-only-log-example): wyl/phoenix-ecto-append-only-log-example: 📝 A step-by-step example/tutorial showing how to build a Phoenix (Elixir) App where all data is immutable (append only). Precursor to Blockchain, IPFS or Solid!
 - [EasyRPG/Editor](https://github.com/EasyRPG/Editor): EasyRPG/Editor: Game editor similar to RPG Mak
@@ -124,7 +94,8 @@
 - [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki): pen-spaced-repetition/fsrs4anki: A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm
 - [CodingTrain/Creative-Coding-Processing-Full-Course](https://github.com/CodingTrain/Creative-Coding-Processing-Full-Course): CodingTrain/Creative-Coding-Processing-Full-Course: Full Course: Creative Coding with Processing 4!
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat): CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deploym
-## https://github.com/stars/ketsapiwiq/lists/unlock-security
+
+## [unlock-security](https://github.com/stars/ketsapiwiq/lists/unlock-security)
 
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening): decalage2/awesome-security-hardening: A collection of awesome security hardening guides, tools and other reso
 - [clong/DetectionLab](https://github.com/clong/DetectionLab): long/DetectionLab: Automate the creation of a lab environment complete with security tooling and logging best p
@@ -156,7 +127,8 @@
 - [heroku/12factor](https://github.com/heroku/12factor): heroku/12facto
 - [arpa2/draft-vanrein-httpauth-sasl](https://github.com/arpa2/draft-vanrein-httpauth-sasl): pa2/draft-vanrein-httpauth-sasl: HTTP Authentication with SASL (HTTP SASL)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy): Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and mo
-## https://github.com/stars/ketsapiwiq/lists/decentralize
+
+## [decentralize](https://github.com/stars/ketsapiwiq/lists/decentralize)
 
 - [YunoHost-Apps/uptime-kuma_ynh](https://github.com/YunoHost-Apps/uptime-kuma_ynh): YunoHost-Apps/uptime-kuma_ynh: Uptime Kuma package for YunoHost
 - [LibreSign/libresign](https://github.com/LibreSign/libresign): LibreSign/libresign: ✍️ Nextcloud app to sign PDF documents
@@ -189,7 +161,7 @@
 - [YunoHost-Apps/signaturepdf_ynh](https://github.com/YunoHost-Apps/signaturepdf_ynh): YunoHost-Apps/signaturepdf_ynh: Signaturepdf package fot YunoHost
 - [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala): Kuwala is the no-code data platform for BI analysts and engineers enabling you to build powerful analytics workflows. We are set out to bring state-of-the-art data engineering tools you love, such as Airbyte, dbt, or Great Expectations together in one intuitive interface built with React Flow. In addition we provide third-party data into data science models and products with a focus on geospatial data.  Currently, the following data connectors are available worldwide: a) High-resolution demographics data b) Point of Interests from Open Street Map c) Google Popular Times
 
-## https://github.com/stars/ketsapiwiq/lists/yunohost
+## [yunohost](https://github.com/stars/ketsapiwiq/lists/yunohost)
 
 - [YunoHost-Apps/Experimental_helpers](https://github.com/YunoHost-Apps/Experimental_helpers): YunoHost-Apps/Experimental_helpers
 - [YunoHost/example_ynh](https://github.com/YunoHost/example_ynh): YunoHost/example_ynh: Example package for YunoHost applications.
@@ -204,7 +176,7 @@
 - [zmartzone/lua-resty-openidc](https://github.com/zmartzone/lua-resty-openidc): zmartzone/lua-resty-openidc: OpenID Connect Relying Party and OAuth 2.0 Resource Server implementation in Lua for NGINX / OpenResty
 - [privacyidea/privacyidea](https://github.com/privacyidea/privacyidea): privacyidea/privacyidea: :closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP Server)
 - [ivbeg/awesome-data-takeout](https://github.com/ivbeg/awesome-data-takeout): ivbeg/awesome-data-takeout: Awesome list of data export pages/tools for most common online services
-- [logseq/logseq](https://github.com/logseq/logseq): gseq/logseq: A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq): gseq/logseq: A privacy-first, open-source platform for knowledge management and collaboration. Download link:  <http://github.com/logseq/logseq/releases>. roadmap: <http://trello.com/b/8txSM12G/roadmap>
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material): squidfunk/mkdocs-material: Documentation that simply works
 - [goauthentik/authentik](https://github.com/goauthentik/authentik): goauthentik/authentik: The authentication glue you need.
 - [rwth-acis/prosody-auth-OIDC](https://github.com/rwth-acis/prosody-auth-OIDC): rwth-acis/prosody-auth-OIDC: A Prosody 0.10 module that allows to login with an OpenID Connect token, how cool is that!
@@ -219,11 +191,12 @@
 - [zorun/ansible-role-garage](https://github.com/zorun/ansible-role-garage): zorun/ansible-role-garage: Ansible role to deploy Garage storage clusters
 - [mopidy/mopidy](https://github.com/mopidy/mopidy): pidy/mopidy: Mopidy is an extensible music server written in Python
 - [KaiStarkk/wumps](https://github.com/KaiStarkk/wumps): KaiStarkk/wumps
-- [ldidry/lutim](https://github.com/ldidry/lutim): didry/lutim: Let's Upload That Image ! Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/luti
+- [ldidry/lutim](https://github.com/ldidry/lutim): didry/lutim: Let's Upload That Image ! Read-only mirror of <https://framagit.org/fiat-tux/hat-softwares/luti>
 - [mjl-/mox](https://github.com/mjl-/mox): dern full-featured open source secure mail server for low-maintenance self-hosted emai
-## https://github.com/stars/ketsapiwiq/lists/magic-wand-ui-front-end
 
-- [xyflow/xyflow](https://github.com/xyflow/xyflow): xyflow/xyflow: React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+## [magic-wand-ui-front-end](https://github.com/stars/ketsapiwiq/lists/magic-wand-ui-front-end)
+
+- [xyflow/xyflow](https://github.com/xyflow/xyflow): xyflow/xyflow: React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (<https://reactflow.dev>) or Svelte (<https://svelteflow.dev>). Ready out-of-the-box and infinitely customizable.
 - [zerostaticthemes/hugo-winston-theme](https://github.com/zerostaticthemes/hugo-winston-theme): zerostaticthemes/hugo-winston-theme: A minimal and bold blog theme for H
 - [rescript-react-native/rescript-react-native](https://github.com/rescript-react-native/rescript-react-native): script-react-native/rescript-react-native: ReScript bindings for React Nativ
 - [elementor/elementor](https://github.com/elementor/elementor): mentor/elementor: The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
@@ -247,13 +220,14 @@
 - [syntax-tree/mdast](https://github.com/syntax-tree/mdast): syntax-tree/mdast: Markdown Abstract Syntax Tree form
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material): squidfunk/mkdocs-material: Documentation that simply works
 - [LottieFiles/awesome-lottie](https://github.com/LottieFiles/awesome-lottie): Files/awesome-lottie: A curated list of bookmarks, libraries, tools and resources related to Lottie and Bodymov
-- [airbnb/lottie-web](https://github.com/airbnb/lottie-web): Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.
-- [LottieFiles/lottie-player](https://github.com/LottieFiles/lottie-player): Files/lottie-player: Lottie viewer/player as an easy to use web component! https://lottiefiles.com
+- [airbnb/lottie-web](https://github.com/airbnb/lottie-web): Render After Effects animations natively on Web, Android and iOS, and React Native. <http://airbnb>.
+- [LottieFiles/lottie-player](https://github.com/LottieFiles/lottie-player): Files/lottie-player: Lottie viewer/player as an easy to use web component! <https://lottiefiles.com>
 - [raatmarien/translatewith-wiki](https://github.com/raatmarien/translatewith-wiki): marien/translatewith-wiki: A web app to translate terms using Wikipedia language links
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo): marqo-ai/marqo: Unified embedding generation and search engine. Also available on cloud - cloud.marqo.
 - [codeledge/entitree](https://github.com/codeledge/entitree): codeledge/entitree: The Nextjs project powering the webs
 - [AngryLoki/wikidata-graph-builder](https://github.com/AngryLoki/wikidata-graph-builder): Visualize Wikidata items using d3.js
-## https://github.com/stars/ketsapiwiq/lists/semantics
+
+## [semantics](https://github.com/stars/ketsapiwiq/lists/semantics)
 
 - [medialab/hyphe](https://github.com/medialab/hyphe): b/hyphe: Websites crawler with built-in exploration and control web interf
 - [assemblee-virtuelle/pair](https://github.com/assemblee-virtuelle/pair): blee-virtuelle/pair: Ontologie PAIR: Projets, Acteurs, Idées, Ressou
@@ -263,11 +237,11 @@
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine): OpenRefine/OpenRefine: OpenRefine is a free, open source power tool for working with messy data and improving
 - [raatmarien/translatewith-wiki](https://github.com/raatmarien/translatewith-wiki): n/translatewith-wiki: A web app to translate terms using Wikipedia language link
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo): qo-ai/marqo: Unified embedding generation and search engine. Also available on cloud - cloud.marqo.
-- [macrocosmcorp/tenet](https://github.com/macrocosmcorp/tenet): net: An Alexandria community initiative to embed all of human belief. See more: https://alex.macrocosm.so/religion
+- [macrocosmcorp/tenet](https://github.com/macrocosmcorp/tenet): net: An Alexandria community initiative to embed all of human belief. See more: <https://alex.macrocosm.so/religion>
 - [researchstudio-sat/webofneeds](https://github.com/researchstudio-sat/webofneeds): udio-sat/webofneeds: Finding people to cooperate with. Protocol, not platform. Decentralized. Linked Data. Open Source.
 - [miaEngiadina/ap-ld](https://github.com/miaEngiadina/ap-ld): Engiadina/ap-ld: ActivityPub with Linked D
 - [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape): JustAnotherArchivist/snscrape: A social networking service scraper in Python
-- [tvlfyi/tvix](https://github.com/tvlfyi/tvix): vlfyi/tvix: Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
+- [tvlfyi/tvix](https://github.com/tvlfyi/tvix): vlfyi/tvix: Tvix - A Rust implementation of Nix. Read-only mirror of <https://cs.tvl.fyi/depot/-/tree/tvix>
 - [acterglobal/a3](https://github.com/acterglobal/a3): global/a3: Community Communication and casual social organising platform (App)
 - [YesWiki/yeswiki](https://github.com/YesWiki/yeswiki): YesWiki/yeswiki: YesWiki is a wiki system written in PHP, including extensions making collaboration more simple (databases, maps, easy editing, bootstrap themes,...).
 - [nordeck/matrix-poll](https://github.com/nordeck/matrix-poll): nordeck/matrix-poll: This widget allows to conduct polls in Matrix rooms.
@@ -275,7 +249,8 @@
 - [Reflets-info/maltego-tools](https://github.com/Reflets-info/maltego-tools): Reflets-info/maltego-tools: Maltego transforms for investigative journ
 - [MTRNord/matrix-art](https://github.com/MTRNord/matrix-art): MTRNord/matrix-art: An image gallery for Matrix
 - [harperreed/photo-similarity-search](https://github.com/harperreed/photo-similarity-search): Super simple MLX (apple silicon) CLIP based photo similarity web
-## https://github.com/stars/ketsapiwiq/lists/sysadmin-devops
+
+## [sysadmin-devops](https://github.com/stars/ketsapiwiq/lists/sysadmin-devops)
 
 - [denvaar/pgdiff](https://github.com/denvaar/pgdiff): vaar/pgdiff: Compare what data changed between two points in tim
 - [swarmstack/swarmstack](https://github.com/swarmstack/swarmstack): swarmstack/swarmstack: A Docker swarm-based starting point for operating highly-available containerized applications.
@@ -307,7 +282,8 @@
 - [Alinto/sogo](https://github.com/Alinto/sogo): Alinto/sogo: SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission handling. It also makes use of documented standards (IMAP, CalDAV, CardDAV, etc.) and thereby provides native connectivity (without plugins) to many clients such as Microsoft Outlook, Apple iCal, the iPhone, Mozilla Lightning, and a plethora of mobile devices.
 - [h44z/wg-portal](https://github.com/h44z/wg-portal): 44z/wg-portal: WireGuard Configuration Portal with LDAP connect
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui): Wireguard web interfac
-## https://github.com/stars/ketsapiwiq/lists/dev
+
+## [dev](https://github.com/stars/ketsapiwiq/lists/dev)
 
 - [rescript-association/genType](https://github.com/rescript-association/genType): -association/genType: Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi): ubzeroid/instagrapi: 🔥 The fastest and powerful Python library for Instagram Private API 2024
@@ -339,7 +315,8 @@
 - [mixxorz/DSLR](https://github.com/mixxorz/DSLR): z/DSLR: Take lightning fast snapshots of your local Postgres databases.
 - [exercism/elixir](https://github.com/exercism/elixir): lixir: Exercism exercises in Elixir.
 - [exercism/python](https://github.com/exercism/python): Exercism exercises in Python.
-## https://github.com/stars/ketsapiwiq/lists/post-capitalism
+
+## [post-capitalism](https://github.com/stars/ketsapiwiq/lists/post-capitalism)
 
 - [stadtulm/gbfsmap](https://github.com/stadtulm/gbfsmap): dtulm/gbfsmap
 - [transportkollektiv/cykel](https://github.com/transportkollektiv/cykel): ransportkollektiv/cykel: Django Bikesharing Backend
@@ -348,7 +325,7 @@
 - [sleede/fab-manager](https://github.com/sleede/fab-manager): de/fab-manager: Fab-Manager is the FabLab management solution.  It provides a comprehensive, web-based, open-source tool to simplify your administrative tasks and your marker's projects.
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop): popcorn-official/popcorn-desktop: Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [youegraillot/lidarr-on-steroids](https://github.com/youegraillot/lidarr-on-steroids): youegraillot/lidarr-on-steroids: Lidarr with some muscles thanks to deemix
-- [RateTheLandlord/RateTheLandlord](https://github.com/RateTheLandlord/RateTheLandlord): TheLandlord/RateTheLandlord: https://discord.gg/NW4yWp3kBV
+- [RateTheLandlord/RateTheLandlord](https://github.com/RateTheLandlord/RateTheLandlord): TheLandlord/RateTheLandlord: <https://discord.gg/NW4yWp3kBV>
 - [Siltaar/meta-press.es](https://github.com/Siltaar/meta-press.es): Siltaar/meta-press.es: Decentralized search engine & Automatized press review
 - [CaliOpen/Caliopen](https://github.com/CaliOpen/Caliopen): CaliOpen/Caliopen: Entry point for Caliopen messaging platform projec
 - [researchstudio-sat/webofneeds](https://github.com/researchstudio-sat/webofneeds): researchstudio-sat/webofneeds: Finding people to cooperate with. Protocol, not platform. Decentralized. Linked Data. Open Source.
@@ -357,3 +334,36 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube): KRTirtho/spotube: 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe): janos-dev/LinguaCafe: LinguaCafe is a self-hosted software that helps language learners read foreign languages.
 - [Reflets-info/maltego-tools](https://github.com/Reflets-info/maltego-tools): Maltego transforms for investigative jour
+
+## [:robot: machine-learning]([robot-machine-learning)](<https://github.com/stars/ketsapiwiq/lists/robot-machine-learning>))
+
+- [LambdaLabsML/examples](https://github.com/LambdaLabsML/examples): ambdaLabsML/examples: Deep Learning Examples
+- [salesforce/BLIP](https://github.com/salesforce/BLIP): salesforce/BLIP: PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generatio
+- [impira/docquery](https://github.com/impira/docquery): mpira/docquery: An easy way to extract information from documents
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo): marqo-ai/marqo: Unified embedding generation and search engine. Also available on cloud - cloud.marqo.a
+- [openai/whisper](https://github.com/openai/whisper): openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervisio
+- [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action): xxt/chatgpt-action: Let ChatGPT review PRs for you
+- [alpa-projects/alpa](https://github.com/alpa-projects/alpa): alpa-projects/alpa: Training and serving large-scale neural networks with auto parallelization.
+- [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode): mpociot/chatgpt-vscode: A VSCode extension that allows you to use ChatGPT
+- [mingyuan-zhang/MotionDiffuse](https://github.com/mingyuan-zhang/MotionDiffuse): mingyuan-zhang/MotionDiffuse: MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Mode
+- [raingo/TGIF-Release](https://github.com/raingo/TGIF-Release): raingo/TGIF-Release: Animated GIF Description Dataset
+- [cvlab-columbia/viper](https://github.com/cvlab-columbia/viper): cvlab-columbia/viper: Code for the paper "ViperGPT: Visual Inference via Python Execution for Reasoning"
+- [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt): chtdax/awesome-totally-open-chatgpt: A list of totally open alternatives to ChatGPT
+- [cvlab-columbia/zero123](https://github.com/cvlab-columbia/zero123): cvlab-columbia/zero123: Zero-1-to-3: Zero-shot One Image to 3D Object (ICCV 2023)
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals): bigscience-workshop/petals: 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+- [broncotc/bitsandbytes-rocm](https://github.com/broncotc/bitsandbytes-rocm): broncotc/bitsandbytes-rocm
+- [jiggy-ai/pair](https://github.com/jiggy-ai/pair): jiggy-ai/pair: REPL environment for GPT pair programming
+- [jiggy-ai/chatstack](https://github.com/jiggy-ai/chatstack): jiggy-ai/chatstack: Minimalist Context Management for message-based GPTs
+- [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4): radi-cho/awesome-gpt4: A curated list of prompts, tools, and resources regarding the GPT-4 language model.
+- [synesthesiam/voice2json](https://github.com/synesthesiam/voice2json): synesthesiam/voice2json: Command-line tools for speech and intent recognition on Linux
+- [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT): gd3kr/BlenderGPT: Use commands in English to control Blender with OpenAI's GPT-4
+- [Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero): Picsart-AI-Research/Text2Video-Zero: [ICCV 2023 Oral] Text-to-Image Diffusion Models are Zero-Shot Video Generators
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp): ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): Significant-Gravitas/AutoGPT: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [noahshinn/reflexion](https://github.com/noahshinn/reflexion): oahshinn/reflexion: [NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): oobabooga/text-generation-webui: A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
+- [janeyeon/ditto-nerf-code](https://github.com/janeyeon/ditto-nerf-code): janeyeon/ditto-nerf-code
+- [TabbyML/tabby](https://github.com/TabbyML/tabby): TabbyML/tabby: Self-hosted AI coding assistant
+- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot): fauxpilot/fauxpilot: FauxPilot - an open-source alternative to GitHub Copilot server
+- [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM): Stability-AI/StableLM: StableLM: Stability AI Language Models
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM): s an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.
