@@ -1,6 +1,6 @@
 # Awesome Technostructure(s)
 
-## [research]([research)](<https://github.com/stars/ketsapiwiq/lists/research>))
+## [🎓 research](https://github.com/stars/ketsapiwiq/lists/research)
 
 - [pfrazee/vitra](https://github.com/pfrazee/vitra): pfrazee/vitra: Cooperative databases using smart contracts.
 - [glondu/belenios](https://github.com/glondu/belenios): du/belenios: Verifiable online voting system. This is a mirror of <https://gitlab.inria.fr/belenios/beleni>
@@ -33,7 +33,7 @@
 - [yjs/yjs](https://github.com/yjs/yjs): yjs/yjs: Shared data types for building collaborative softw
 - [carlosmn/geef](https://github.com/carlosmn/geef): Git NEEEEF (Erlang NIF)
 
-## [inspiration](https://github.com/stars/ketsapiwiq/lists/inspiration)
+## [✨ inspiration](https://github.com/stars/ketsapiwiq/lists/inspiration)
 
 - [babolivier/matrix-poll-bot](https://github.com/babolivier/matrix-poll-bot): babolivier/matrix-poll-bot: Matrix bot to d
 - [k0a1a/hotglue2](https://github.com/k0a1a/hotglue2): 0a1a/hotglue2: HOTGLUE is a Content Manipulation System which allows to construct websites directly in a web-browser.
@@ -66,7 +66,7 @@
 - [stadtulm/gbfsmap](https://github.com/stadtulm/gbfsmap): dtulm/gbfsm
 - [transportkollektiv/cykel](https://github.com/transportkollektiv/cykel): Django Bikesharing Backend
 
-## [pedagogy](https://github.com/stars/ketsapiwiq/lists/pedagogy)
+## [🔤 pedagogy](https://github.com/stars/ketsapiwiq/lists/pedagogy)
 
 - [dwyl/phoenix-ecto-append-only-log-example](https://github.com/dwyl/phoenix-ecto-append-only-log-example): wyl/phoenix-ecto-append-only-log-example: 📝 A step-by-step example/tutorial showing how to build a Phoenix (Elixir) App where all data is immutable (append only). Precursor to Blockchain, IPFS or Solid!
 - [EasyRPG/Editor](https://github.com/EasyRPG/Editor): EasyRPG/Editor: Game editor similar to RPG Mak
@@ -95,7 +95,7 @@
 - [CodingTrain/Creative-Coding-Processing-Full-Course](https://github.com/CodingTrain/Creative-Coding-Processing-Full-Course): CodingTrain/Creative-Coding-Processing-Full-Course: Full Course: Creative Coding with Processing 4!
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat): CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deploym
 
-## [unlock-security](https://github.com/stars/ketsapiwiq/lists/unlock-security)
+## [🔓 security](https://github.com/stars/ketsapiwiq/lists/unlock-security)
 
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening): decalage2/awesome-security-hardening: A collection of awesome security hardening guides, tools and other reso
 - [clong/DetectionLab](https://github.com/clong/DetectionLab): long/DetectionLab: Automate the creation of a lab environment complete with security tooling and logging best p
@@ -128,7 +128,7 @@
 - [arpa2/draft-vanrein-httpauth-sasl](https://github.com/arpa2/draft-vanrein-httpauth-sasl): pa2/draft-vanrein-httpauth-sasl: HTTP Authentication with SASL (HTTP SASL)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy): Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and mo
 
-## [decentralize](https://github.com/stars/ketsapiwiq/lists/decentralize)
+## [🌐 decentralize](https://github.com/stars/ketsapiwiq/lists/decentralize)
 
 - [YunoHost-Apps/uptime-kuma_ynh](https://github.com/YunoHost-Apps/uptime-kuma_ynh): YunoHost-Apps/uptime-kuma_ynh: Uptime Kuma package for YunoHost
 - [LibreSign/libresign](https://github.com/LibreSign/libresign): LibreSign/libresign: ✍️ Nextcloud app to sign PDF documents
@@ -161,7 +161,7 @@
 - [YunoHost-Apps/signaturepdf_ynh](https://github.com/YunoHost-Apps/signaturepdf_ynh): YunoHost-Apps/signaturepdf_ynh: Signaturepdf package fot YunoHost
 - [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala): Kuwala is the no-code data platform for BI analysts and engineers enabling you to build powerful analytics workflows. We are set out to bring state-of-the-art data engineering tools you love, such as Airbyte, dbt, or Great Expectations together in one intuitive interface built with React Flow. In addition we provide third-party data into data science models and products with a focus on geospatial data.  Currently, the following data connectors are available worldwide: a) High-resolution demographics data b) Point of Interests from Open Street Map c) Google Popular Times
 
-## [yunohost](https://github.com/stars/ketsapiwiq/lists/yunohost)
+## [🎛️ yunohost](https://github.com/stars/ketsapiwiq/lists/yunohost)
 
 - [YunoHost-Apps/Experimental_helpers](https://github.com/YunoHost-Apps/Experimental_helpers): YunoHost-Apps/Experimental_helpers
 - [YunoHost/example_ynh](https://github.com/YunoHost/example_ynh): YunoHost/example_ynh: Example package for YunoHost applications.
@@ -194,7 +194,7 @@
 - [ldidry/lutim](https://github.com/ldidry/lutim): didry/lutim: Let's Upload That Image ! Read-only mirror of <https://framagit.org/fiat-tux/hat-softwares/luti>
 - [mjl-/mox](https://github.com/mjl-/mox): dern full-featured open source secure mail server for low-maintenance self-hosted emai
 
-## [magic-wand-ui-front-end](https://github.com/stars/ketsapiwiq/lists/magic-wand-ui-front-end)
+## [🪄 ui-front-end](https://github.com/stars/ketsapiwiq/lists/magic-wand-ui-front-end)
 
 - [xyflow/xyflow](https://github.com/xyflow/xyflow): xyflow/xyflow: React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (<https://reactflow.dev>) or Svelte (<https://svelteflow.dev>). Ready out-of-the-box and infinitely customizable.
 - [zerostaticthemes/hugo-winston-theme](https://github.com/zerostaticthemes/hugo-winston-theme): zerostaticthemes/hugo-winston-theme: A minimal and bold blog theme for H
@@ -227,7 +227,7 @@
 - [codeledge/entitree](https://github.com/codeledge/entitree): codeledge/entitree: The Nextjs project powering the webs
 - [AngryLoki/wikidata-graph-builder](https://github.com/AngryLoki/wikidata-graph-builder): Visualize Wikidata items using d3.js
 
-## [semantics](https://github.com/stars/ketsapiwiq/lists/semantics)
+## [🔬 semantics](https://github.com/stars/ketsapiwiq/lists/semantics)
 
 - [medialab/hyphe](https://github.com/medialab/hyphe): b/hyphe: Websites crawler with built-in exploration and control web interf
 - [assemblee-virtuelle/pair](https://github.com/assemblee-virtuelle/pair): blee-virtuelle/pair: Ontologie PAIR: Projets, Acteurs, Idées, Ressou
@@ -250,7 +250,7 @@
 - [MTRNord/matrix-art](https://github.com/MTRNord/matrix-art): MTRNord/matrix-art: An image gallery for Matrix
 - [harperreed/photo-similarity-search](https://github.com/harperreed/photo-similarity-search): Super simple MLX (apple silicon) CLIP based photo similarity web
 
-## [sysadmin-devops](https://github.com/stars/ketsapiwiq/lists/sysadmin-devops)
+## [💾 sysadmin-devops](https://github.com/stars/ketsapiwiq/lists/sysadmin-devops)
 
 - [denvaar/pgdiff](https://github.com/denvaar/pgdiff): vaar/pgdiff: Compare what data changed between two points in tim
 - [swarmstack/swarmstack](https://github.com/swarmstack/swarmstack): swarmstack/swarmstack: A Docker swarm-based starting point for operating highly-available containerized applications.
@@ -283,7 +283,7 @@
 - [h44z/wg-portal](https://github.com/h44z/wg-portal): 44z/wg-portal: WireGuard Configuration Portal with LDAP connect
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui): Wireguard web interfac
 
-## [dev](https://github.com/stars/ketsapiwiq/lists/dev)
+## [🧑‍💻 dev](https://github.com/stars/ketsapiwiq/lists/dev)
 
 - [rescript-association/genType](https://github.com/rescript-association/genType): -association/genType: Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi): ubzeroid/instagrapi: 🔥 The fastest and powerful Python library for Instagram Private API 2024
@@ -316,7 +316,7 @@
 - [exercism/elixir](https://github.com/exercism/elixir): lixir: Exercism exercises in Elixir.
 - [exercism/python](https://github.com/exercism/python): Exercism exercises in Python.
 
-## [post-capitalism](https://github.com/stars/ketsapiwiq/lists/post-capitalism)
+## [💸 post-capitalism](https://github.com/stars/ketsapiwiq/lists/post-capitalism)
 
 - [stadtulm/gbfsmap](https://github.com/stadtulm/gbfsmap): dtulm/gbfsmap
 - [transportkollektiv/cykel](https://github.com/transportkollektiv/cykel): ransportkollektiv/cykel: Django Bikesharing Backend
