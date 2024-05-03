@@ -188,6 +188,7 @@
 - [bonfire-networks/bonfire_valueflows](https://github.com/bonfire-networks/bonfire_valueflows): bonfire-networks/bonfire_valueflows: ValueFlows economic extension for Bonfire
 - [YunoHost-Apps/signaturepdf_ynh](https://github.com/YunoHost-Apps/signaturepdf_ynh): YunoHost-Apps/signaturepdf_ynh: Signaturepdf package fot YunoHost
 - [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala): Kuwala is the no-code data platform for BI analysts and engineers enabling you to build powerful analytics workflows. We are set out to bring state-of-the-art data engineering tools you love, such as Airbyte, dbt, or Great Expectations together in one intuitive interface built with React Flow. In addition we provide third-party data into data science models and products with a focus on geospatial data.  Currently, the following data connectors are available worldwide: a) High-resolution demographics data b) Point of Interests from Open Street Map c) Google Popular Times
+
 ## https://github.com/stars/ketsapiwiq/lists/yunohost
 
 - [YunoHost-Apps/Experimental_helpers](https://github.com/YunoHost-Apps/Experimental_helpers): YunoHost-Apps/Experimental_helpers

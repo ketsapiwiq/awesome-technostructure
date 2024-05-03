@@ -17,15 +17,16 @@ with open("source.txt", "r") as f:
     # Get the list of repository URLs
         repos = []
         for repo in soup.select('h3 a'):
-            name = (repo.text).replace(' / ', '/').replace('\n      ','').strip('\n').replace(' / ', '/')
-            repos.append(name)
+            link = (repo.text).replace(' / ', '/').replace('\n      ','').strip('\n').replace(' / ', '/')
+            
+            repos.append(link)
             descs = []
 
         for repo in repos:
             response = requests.get("https://github.com/"+repo)
             soup = BeautifulSoup(response.text, 'html.parser')
             desc = soup.select('title')[0].text
-            desc= desc.replace(f'GitHub -', '').strip(f'{name}: ').strip('\n')
+            desc= desc.replace(f'GitHub - ', '').strip('\n')
                 # print(f"{repo}: {desc}")
             descs.append(desc)
             item=""
